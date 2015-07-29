@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\bin\Debug\AutoModel.exe
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\bin\Debug\AutoModel.pdb
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.exe
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.pdb
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.Form1.resources
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\obj\Debug\AutoModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#读取SQLServer数据库并生成数据结构图\codefans.net\AutoModel\bin\Debug\data.txt

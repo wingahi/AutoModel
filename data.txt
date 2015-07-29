@@ -1,0 +1,6 @@
+﻿server=
+username=testdb
+pwd=
+database=test
+tables=admin,users
+name_space=MyModel
